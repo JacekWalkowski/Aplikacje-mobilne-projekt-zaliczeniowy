@@ -1,0 +1,11 @@
+c:\users\bagieta\documents\visual studio 2010\Projects\ProjektBluetooth\ProjektBluetooth\bin\Debug\ProjektBluetooth.exe
+c:\users\bagieta\documents\visual studio 2010\Projects\ProjektBluetooth\ProjektBluetooth\bin\Debug\ProjektBluetooth.pdb
+c:\users\bagieta\documents\visual studio 2010\Projects\ProjektBluetooth\ProjektBluetooth\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bagieta\documents\visual studio 2010\Projects\ProjektBluetooth\ProjektBluetooth\obj\x86\Debug\ProjektBluetooth.Form1.resources
+c:\users\bagieta\documents\visual studio 2010\Projects\ProjektBluetooth\ProjektBluetooth\obj\x86\Debug\ProjektBluetooth.Properties.Resources.resources
+c:\users\bagieta\documents\visual studio 2010\Projects\ProjektBluetooth\ProjektBluetooth\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\bagieta\documents\visual studio 2010\Projects\ProjektBluetooth\ProjektBluetooth\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\bagieta\documents\visual studio 2010\Projects\ProjektBluetooth\ProjektBluetooth\obj\x86\Debug\ProjektBluetooth.exe
+c:\users\bagieta\documents\visual studio 2010\Projects\ProjektBluetooth\ProjektBluetooth\obj\x86\Debug\ProjektBluetooth.pdb
+C:\Users\Bagieta\documents\visual studio 2010\Projects\ProjektBluetooth\ProjektBluetooth\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Bagieta\documents\visual studio 2010\Projects\ProjektBluetooth\ProjektBluetooth\bin\Debug\InTheHand.Net.Personal.xml
